@@ -79,9 +79,11 @@
 }
 .incoming-message .message__bubble {
   border-bottom-left-radius: 0px;
+  background-image: linear-gradient(to right, #ffefba, #ffffff);
 }
 .sent-message .message__bubble {
   border-bottom-right-radius: 0px;
+  background-image: linear-gradient(to right, #ffefba, #ffffff);
 }
 .chat__write {
   position: fixed;
